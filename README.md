@@ -5,12 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavkakkar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavkakkar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavkakkar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/arnavkakkar/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavkakkar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavkakkar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavkakkar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/arnavkakkar/leetcode/tree/master/0875-koko-eating-bananas) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavkakkar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

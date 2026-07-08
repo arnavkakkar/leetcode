@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arnavkakkar/leetcode/tree/master/0015-3sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavkakkar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavkakkar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavkakkar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -18,5 +19,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arnavkakkar/leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavkakkar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/arnavkakkar/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

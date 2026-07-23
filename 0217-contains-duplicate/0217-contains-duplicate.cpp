@@ -4,13 +4,16 @@ public:
         unordered_map<int,int> freq;
         for(int x : nums){
             freq[x]++;
-        }
-
-        for(int i = 0; i < nums.size(); i++){
-            if(freq[nums[i]] > 1){
+            if(freq[x] > 1){
                 return true;
             }
         }
+
+        // for(int i = 0; i < nums.size(); i++){
+        //     if(freq[nums[i]] > 1){
+        //         return true;
+        //     }
+        // }
         return false;
     }
 };

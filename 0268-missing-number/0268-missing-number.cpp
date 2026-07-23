@@ -7,7 +7,7 @@ public:
         }
 
         for(int i = 1; i <= nums.size(); i++){
-            if(freq[i] == 0){
+            if(freq.find(i) == freq.end()){
                 return i;
             }
         }

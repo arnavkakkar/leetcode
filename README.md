@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavkakkar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavkakkar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavkakkar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/arnavkakkar/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/arnavkakkar/leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnavkakkar/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/arnavkakkar/leetcode/tree/master/0605-can-place-flowers) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/arnavkakkar/leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/arnavkakkar/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/arnavkakkar/leetcode/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavkakkar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/arnavkakkar/leetcode/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/arnavkakkar/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/arnavkakkar/leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arnavkakkar/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnavkakkar/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |

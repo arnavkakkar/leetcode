@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/arnavkakkar/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/arnavkakkar/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavkakkar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/arnavkakkar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavkakkar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavkakkar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/arnavkakkar/leetcode/tree/master/0169-majority-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavkakkar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/arnavkakkar/leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/arnavkakkar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arnavkakkar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arnavkakkar/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/arnavkakkar/leetcode/tree/master/0242-valid-anagram) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arnavkakkar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/arnavkakkar/leetcode/tree/master/0724-find-pivot-index) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arnavkakkar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

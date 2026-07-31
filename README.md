@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/arnavkakkar/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/arnavkakkar/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/arnavkakkar/leetcode/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/arnavkakkar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavkakkar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/arnavkakkar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavkakkar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arnavkakkar/leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/arnavkakkar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/arnavkakkar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/arnavkakkar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/arnavkakkar/leetcode/tree/master/0496-next-greater-element-i) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/arnavkakkar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/arnavkakkar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arnavkakkar/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/arnavkakkar/leetcode/tree/master/0901-online-stock-span) |

@@ -186,12 +186,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/arnavkakkar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arnavkakkar/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/arnavkakkar/leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/arnavkakkar/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/arnavkakkar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arnavkakkar/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/arnavkakkar/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/arnavkakkar/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/arnavkakkar/leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/arnavkakkar/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

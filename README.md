@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/arnavkakkar/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/arnavkakkar/leetcode/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/arnavkakkar/leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/arnavkakkar/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/arnavkakkar/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavkakkar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/arnavkakkar/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/arnavkakkar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/arnavkakkar/leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/arnavkakkar/leetcode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/arnavkakkar/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/arnavkakkar/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/arnavkakkar/leetcode/tree/master/0901-online-stock-span) |
 ## Design
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/arnavkakkar/leetcode/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/arnavkakkar/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

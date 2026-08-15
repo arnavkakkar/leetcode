@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/arnavkakkar/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnavkakkar/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/arnavkakkar/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/arnavkakkar/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/arnavkakkar/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/arnavkakkar/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnavkakkar/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/arnavkakkar/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/arnavkakkar/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/arnavkakkar/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnavkakkar/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/arnavkakkar/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

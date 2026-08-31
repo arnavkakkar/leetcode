@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavkakkar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/arnavkakkar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arnavkakkar/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/arnavkakkar/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/arnavkakkar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/arnavkakkar/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/arnavkakkar/leetcode/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/arnavkakkar/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arnavkakkar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arnavkakkar/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/arnavkakkar/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/arnavkakkar/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arnavkakkar/leetcode/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/arnavkakkar/leetcode/tree/master/0621-task-scheduler) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/arnavkakkar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/arnavkakkar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arnavkakkar/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/arnavkakkar/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/arnavkakkar/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arnavkakkar/leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arnavkakkar/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arnavkakkar/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/arnavkakkar/leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/arnavkakkar/leetcode/tree/master/0621-task-scheduler) |
 ## Math
 |  |
@@ -371,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/arnavkakkar/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/arnavkakkar/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arnavkakkar/leetcode/tree/master/0938-range-sum-of-bst) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/arnavkakkar/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

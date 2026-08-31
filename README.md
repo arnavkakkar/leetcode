@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/arnavkakkar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/arnavkakkar/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/arnavkakkar/leetcode/tree/master/0621-task-scheduler) |
+| [0665-non-decreasing-array](https://github.com/arnavkakkar/leetcode/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/arnavkakkar/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/arnavkakkar/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/arnavkakkar/leetcode/tree/master/0739-daily-temperatures) |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/arnavkakkar/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/arnavkakkar/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavkakkar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/arnavkakkar/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/arnavkakkar/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arnavkakkar/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/arnavkakkar/leetcode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/arnavkakkar/leetcode/tree/master/0867-transpose-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -383,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/arnavkakkar/leetcode/tree/master/0229-majority-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/arnavkakkar/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

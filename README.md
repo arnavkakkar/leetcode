@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/arnavkakkar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnavkakkar/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/arnavkakkar/leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/arnavkakkar/leetcode/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/arnavkakkar/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/arnavkakkar/leetcode/tree/master/0621-task-scheduler) |
 | [0665-non-decreasing-array](https://github.com/arnavkakkar/leetcode/tree/master/0665-non-decreasing-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/arnavkakkar/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/arnavkakkar/leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/arnavkakkar/leetcode/tree/master/0867-transpose-matrix) |
 ## Tree
@@ -388,5 +390,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/arnavkakkar/leetcode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/arnavkakkar/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

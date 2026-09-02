@@ -392,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/arnavkakkar/leetcode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/arnavkakkar/leetcode/tree/master/0867-transpose-matrix) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/arnavkakkar/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

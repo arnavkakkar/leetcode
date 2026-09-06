@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/arnavkakkar/leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/arnavkakkar/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/arnavkakkar/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/arnavkakkar/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/arnavkakkar/leetcode/tree/master/1148-article-views-i) |
 | [1729-find-followers-count](https://github.com/arnavkakkar/leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/arnavkakkar/leetcode/tree/master/1757-recyclable-and-low-fat-products) |

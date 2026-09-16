@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/arnavkakkar/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/arnavkakkar/leetcode/tree/master/1148-article-views-i) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/arnavkakkar/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1683-invalid-tweets](https://github.com/arnavkakkar/leetcode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/arnavkakkar/leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/arnavkakkar/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

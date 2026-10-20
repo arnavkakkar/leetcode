@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/arnavkakkar/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/arnavkakkar/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arnavkakkar/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/arnavkakkar/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/arnavkakkar/leetcode/tree/master/0268-missing-number) |
 | [3886-sum-of-sortable-integers](https://github.com/arnavkakkar/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/arnavkakkar/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/arnavkakkar/leetcode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/arnavkakkar/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/arnavkakkar/leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/arnavkakkar/leetcode/tree/master/0867-transpose-matrix) |
@@ -547,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/arnavkakkar/leetcode/tree/master/3886-sum-of-sortable-integers) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arnavkakkar/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

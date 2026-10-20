@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arnavkakkar/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arnavkakkar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/arnavkakkar/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/arnavkakkar/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/arnavkakkar/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/arnavkakkar/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/arnavkakkar/leetcode/tree/master/0242-valid-anagram) |
@@ -181,11 +182,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/arnavkakkar/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arnavkakkar/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arnavkakkar/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/arnavkakkar/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/arnavkakkar/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arnavkakkar/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arnavkakkar/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/arnavkakkar/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/arnavkakkar/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arnavkakkar/leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/arnavkakkar/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/arnavkakkar/leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/arnavkakkar/leetcode/tree/master/0867-transpose-matrix) |

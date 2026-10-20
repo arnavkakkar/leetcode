@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/arnavkakkar/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/arnavkakkar/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/arnavkakkar/leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/arnavkakkar/leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arnavkakkar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arnavkakkar/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arnavkakkar/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/arnavkakkar/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/arnavkakkar/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arnavkakkar/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/arnavkakkar/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/arnavkakkar/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arnavkakkar/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation

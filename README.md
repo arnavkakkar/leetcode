@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavkakkar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavkakkar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/arnavkakkar/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/arnavkakkar/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/arnavkakkar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arnavkakkar/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/arnavkakkar/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -570,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/arnavkakkar/leetcode/tree/master/0257-binary-tree-paths) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/arnavkakkar/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

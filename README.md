@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/arnavkakkar/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/arnavkakkar/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/arnavkakkar/leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/arnavkakkar/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/arnavkakkar/leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/arnavkakkar/leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arnavkakkar/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/arnavkakkar/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/arnavkakkar/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arnavkakkar/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/arnavkakkar/leetcode/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arnavkakkar/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnavkakkar/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/arnavkakkar/leetcode/tree/master/0496-next-greater-element-i) |
